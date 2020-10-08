@@ -16,14 +16,20 @@
 
 `bash rime-install pinyin-simp`
 
-`bash rime-install Lxsbw/wubi98
+`bash rime-install Lxsbw/wubi98`
 
 授權條款：見 [LICENSE](LICENSE)
 
 
 # 整理人信息
 
-**感谢hlizard的努力，我只是一个搬运工，整合了新世纪五笔资源的下载（用于本人整理 3 种五笔资源），如果有侵犯，请联系我，我会马上处理，感谢！**
+**感谢hlizard的努力，我只是一个搬运工，整合了98五笔资源的下载（用于本人整理 3 种五笔资源），如果有侵犯，请联系我，我会马上处理，感谢！**
 
 - **整理人:** 符志雄
 - **邮箱：** <lxsbw@163.com>
+
+# 整套资源
+
+- **五笔86:** https://github.com/Lxsbw/wubi86
+- **五笔98:** https://github.com/Lxsbw/wubi98
+- **五笔新世纪:** https://github.com/Lxsbw/wubixsj
