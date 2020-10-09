@@ -8,11 +8,11 @@
 
 ## 来源说明
 
-  wubi98.dict.yaml
+  wubi98.dict.yaml、
   wubi98.schema.yaml
   （源自 https://gitee.com/superwubi/SuperWuibi）
 
-  wubi98_pinyin.schema.yaml
+  wubi98_pinyin.schema.yaml、
   wubi98_trad.schema.yaml
   （源自 https://github.com/hlizard/rime-wubi98）
 
