@@ -4,7 +4,17 @@
 
 [Rime](http://rime.im) 五筆字型輸入方案
 
-五筆字型98 （源自 https://github.com/hlizard/rime-wubi98）
+五筆字型98
+
+## 来源说明
+
+  wubi98.dict.yaml
+  wubi98.schema.yaml
+  （源自 https://gitee.com/superwubi/SuperWuibi）
+
+  wubi98_pinyin.schema.yaml
+  wubi98_trad.schema.yaml
+  （源自 https://github.com/hlizard/rime-wubi98）
 
 ## 安裝
 
@@ -23,7 +33,7 @@
 
 # 整理人信息
 
-**感谢hlizard的努力，我只是一个搬运工，整合了98五笔资源的下载（用于本人整理 3 种五笔资源），如果有侵犯，请联系我，我会马上处理，感谢！**
+**感谢superwubi（极强五笔）、hlizard的努力，我只是一个搬运工，整合了98五笔资源的下载（用于本人整理 3 种五笔资源），如果有侵犯，请联系我，我会马上处理，感谢！**
 
 - **整理人:** 符志雄
 - **邮箱：** <lxsbw@163.com>

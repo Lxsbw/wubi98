@@ -3,7 +3,9 @@ Derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
 and based on original work by 王永民 / Wang Yongmin : (Public Domain)
   wubi98.dict.yaml
 
-hlizard <xxxxx@gmail.com> : (LGPL)
+superwubi 极强五笔 : (LGPL)
   wubi98.schema.yaml
+
+hlizard <xxxxx@gmail.com> : (LGPL)
   wubi98_pinyin.schema.yaml
   wubi98_trad.schema.yaml
